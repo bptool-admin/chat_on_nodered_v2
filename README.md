@@ -1,0 +1,2 @@
+# chat_on_nodered_v2
+IBM BluemixのNode-RED上でIBM Watson NLCを使ったFAQ自動応答BOTを動作させることができます。 また、このアプリケーションで使うNLCに対してNode-REDの画面上からCSVデータを使って学習させることができます。
